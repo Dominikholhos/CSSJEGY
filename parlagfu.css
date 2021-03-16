@@ -1,4 +1,4 @@
-.keret{
+#alma {
     margin: 0 auto;
     width: 980px;
     background-color: #509050;
@@ -18,4 +18,38 @@
     margin: 5px;
 }
 
-
+.menu{
+    background-color: black;
+    height: 50px;
+    color: white;  
+    border: 2px solid white;   
+}
+.menupont:hover{
+  background-color: white; 
+    color: black;
+}
+.cim{
+    text-align: right;
+    color: white;
+    font-size: 72px;  
+}
+.fejlec{
+    background-image: url(cim.png);
+    background-size: cover;
+    padding: 60px;
+    border: 2px solid white;
+}
+body{
+    background-color: #9CEE59;
+}
+a{
+    color: #999999;
+}
+.felkover{
+    font-weight: bold;
+}
+.kep{
+    float: right;
+    margin-left: 5px;
+    border: 1px solid black;
+}
