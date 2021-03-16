@@ -1,0 +1,21 @@
+.keret{
+    margin: 0 auto;
+    width: 980px;
+    background-color: #509050;
+}
+.keret2{
+    margin: 0 auto;
+    width: 940px;
+     background-color:white;
+    border: 2px solid white;
+}
+
+.menupont{
+    list-style: none;
+    display: inline-block;
+    width: 120px;
+    padding: 5px;
+    margin: 5px;
+}
+
+
